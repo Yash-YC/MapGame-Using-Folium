@@ -1,0 +1,4 @@
+﻿folium
+PyQtWebEngine
+PyQt5
+openrouteservice
